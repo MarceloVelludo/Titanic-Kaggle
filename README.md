@@ -7,5 +7,5 @@ The main librarys used on this project are:
  - Matplotlib
  - Seaborn
 
-The first version finished with a accuracy of ~0.77.
+The first version finished with an accuracy of ~0.77.
 
